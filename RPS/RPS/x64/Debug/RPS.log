@@ -1,3 +1,0 @@
-﻿  RPS.cpp
-C:\Users\ASUS\Documents\C++\RPS\RPS\RPS.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  RPS.vcxproj -> C:\Users\ASUS\Documents\C++\RPS\x64\Debug\RPS.exe
